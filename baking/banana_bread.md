@@ -2,9 +2,9 @@ Banana Bread
 ============
 
 ### Total Time: 1.5 hours
-##### Preperation: 10 minutes
-##### Cooking: 60-70 minutes
-##### Cooling: 20 minutes
+###### Preperation: 15 minutes
+###### Cooking: 60-70 minutes
+###### Cooling: 20 minutes
 
 ### Tools
 

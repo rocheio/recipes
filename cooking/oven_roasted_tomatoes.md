@@ -1,8 +1,8 @@
 # Oven Roasted Tomatoes
 
-### Total Time: 50 minutes
-#### Preparation: 5 minutes
-#### Cooking: 45 minutes
+* **Total Time:** 50 minutes
+* **Prep Time:** 5 minutes
+* **Cook Time:** 45 minutes
 
 ## Tools
 

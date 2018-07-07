@@ -26,10 +26,10 @@
 
 ## Method
 
-* Preheat oven to 350 degrees Farenheit
+* Preheat oven to 350 degrees Fahrenheit
 * Grease the pan with butter or cooking spray
 * Mix all ingredients into bowl, in order listed above, one at a time
 * Whisk together for two minutes
 * Scoop batter into pan
-* Bake for 60-70 minutes at 350 degrees Farenheit
+* Bake for 60-70 minutes at 350 degrees Fahrenheit
 * Remove from oven and cool for 20 minutes

@@ -20,7 +20,7 @@ Basic chocolate chip cookies.
 
 - 0.75 cup granulated sugar
 - 0.75 cup brown sugar
-- 1 cup butter (softened)
+- 1 cup (2 sticks) butter
 - 1 egg
 - 2.25 cups all-purpose flour
 - 1 teaspoon baking soda
@@ -38,7 +38,7 @@ Basic chocolate chip cookies.
 - In order, mix together in large bowl using a spatula:
     - white sugar
     - brown sugar
-    - butter *(softened)*
+    - butter *(softened, not melted)*
     - egg
     - vanilla
     - baking soda

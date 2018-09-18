@@ -7,9 +7,7 @@
 ## Tools
 
 - 1 large wok
-- 1 cutting knife
-- 1 cutting board
-- 1 measuring cup
+- 1 knife
 - 1 spatula / cooking tongs
 
 ## Ingredients
@@ -17,7 +15,7 @@
 - 1.5 pounds chicken breast (sliced into thin strips)
 - 3 cups broccoli (about one stalk, cut into small florets)
 - 1.5 cups onion (about half an onion, sliced into thin strips)
-- 5 teaspoons garlic
+- 5 teaspoons minced garlic
 - 0.5 cup soy sauce
 - 2 tablespoons brown sugar
 - 1.5 tablespoons light olive oil

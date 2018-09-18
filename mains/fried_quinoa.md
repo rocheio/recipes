@@ -12,13 +12,12 @@
 * 1 small frying pan
 * 1 spatula
 * 1 knife
-* 1 cutting board
 
 ## Ingredients
 
 * 1 cup quinoa
 * half an onion
-* 1 clove garlic
+* 1.5 teaspoons minced garlic
 * 1 pepper (any color)
 * 1 chicken breast
 * handful cilantro

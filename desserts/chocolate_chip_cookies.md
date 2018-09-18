@@ -8,7 +8,6 @@ Basic chocolate chip cookies.
 ## Tools
 
 - oven
-- measuring cups
 - 1 large mixing bowl
 - 1 mixing spoon (or blender)
 - 1 spatula

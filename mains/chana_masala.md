@@ -29,7 +29,6 @@ Chickpeas, tomatoes, and a lot of spices, all in one big pan.
 
 ## Method
 
-- Heat olive oil in large pan over medium heat
 - Combine spices in bowl:
     - chili powder
     - cumin
@@ -38,13 +37,15 @@ Chickpeas, tomatoes, and a lot of spices, all in one big pan.
     - salt
     - cinnamon
     - cayenne
-- Add onion to pan and saute until soft
+- Heat olive oil in large pan over medium heat
+- Add onion to pan and saute until soft (about 3 minutes)
 - Stir the following ingredients into the pan, in order:
     - garlic
     - chickpeas (drained)
     - spices
 - Continue stirring until mixture is fragrant
 - Add tomatoes (undrained) and simmer for 20 minutes
+    - Stir occasionally
 
 ## Pair With
 

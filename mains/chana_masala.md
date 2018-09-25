@@ -49,7 +49,9 @@ Chickpeas, tomatoes, and a lot of spices, all in one big pan.
 
 ## Pair With
 
-- Quinoa (or other grain)
+- Ancient grain
+    - [Couscous](/sides/couscous.md)
+    - Quinoa
 - Tzatziki
 - Feta cheese
 - Cucumber slices

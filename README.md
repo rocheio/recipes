@@ -11,6 +11,7 @@ Recipes for tasty food in Markdown
 ## Ingredients
 
 - Should be listed in order of mass
+- Cooking spray or butter to prevent sticking may be omitted
 
 ### Garlic
 

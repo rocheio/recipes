@@ -33,6 +33,7 @@
 - 1 package (8 ounces) cream cheese
 - 1 stick (8 tablespoons) butter
 - 2 teaspoons vanilla extract
+- (optional) 2 tablespoons brewed coffee
 
 ### Optional
 
@@ -62,6 +63,7 @@
     - butter
     - powdered sugar
     - vanilla extract
+    - (optional) brewed coffee
 - Once cake is fully cooled, spread frosting over it
 - (Optional) Decorate with ground / diced pecans
 

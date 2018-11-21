@@ -37,9 +37,10 @@
 - Push onion and garlic mixture to outside of wok (mostly off heat)
 - Add 0.5 tablespoons more oil to center of pan and let heat
 - Lay out all strips of chicken in the wok
-- Sprinkle the top of the chicken with 1 tablespoon cornstarch
 - Cook without stirring for 3 minutes, until edges of chicken are white
-- Flip all the chicken strips in the pan and cook 2 more minutes
+- Flip all the chicken strips in the pan
+- Sprinkle the top of the chicken with 1 tablespoon cornstarch
+- Cook the chicken for 2 more minutes, until white
 - Add the sauce to the wok and stir together all ingredients
 - Lay the broccoli florets on top of the mixture and cook for 2 more minutes
 - (Optional) mix all ingredients one final time and reduce heat to a simmer

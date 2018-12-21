@@ -31,9 +31,9 @@ Classic peanut butter cookies.
 
 - Preheat oven to 375 degrees Fahrenheit
 - In order, mix together in large bowl using a spatula:
+    - butter *(softened, not melted)*
     - white sugar
     - brown sugar
-    - butter *(softened, not melted)*
     - eggs
     - peanut butter
     - baking powder

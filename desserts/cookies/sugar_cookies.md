@@ -34,8 +34,8 @@ Flatter and crisper than most cookies to support decoration.
 ## Method
 
 - Beat together in large bowl using a mixing spoon:
-    - white sugar
     - butter *(softened, not melted)*
+    - white sugar
     - egg
     - vanilla
 - Mix together in medium bowl:

@@ -3,6 +3,7 @@
 Classic oatmeal raisin cookies.
 
 - **Prep Time:** 25 minutes
+- **Chill Time:** 30+ minutes
 - **Cook Time:** 10 minutes
 - **Cool Time:** 15 minutes
 
@@ -34,9 +35,9 @@ Classic oatmeal raisin cookies.
 
 - Preheat oven to 350 degrees Fahrenheit
 - Beat together in large bowl using a mixing spoon:
+    - butter *(softened, not melted)*
     - white sugar
     - brown sugar
-    - butter *(softened, not melted)*
     - eggs
     - vanilla
 - Mix together in medium bowl:
@@ -48,6 +49,7 @@ Classic oatmeal raisin cookies.
 - Mix into large bowl:
     - oats
     - raisins
+- Refrigerate dough for 30+ minutes
 - Set out baking sheets with a greased baking mat or paper on each
 - Place quarter-sized lumps of cookie dough onto the mats, two inches apart
 - Bake for 10 minutes, or until edges are brown and middles are slightly soft

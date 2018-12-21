@@ -52,7 +52,7 @@ Classic oatmeal raisin cookies.
 - Refrigerate dough for 30+ minutes
 - Set out baking sheets with a greased baking mat or paper on each
 - Place quarter-sized lumps of cookie dough onto the mats, two inches apart
-- Bake for 10 minutes, or until edges are brown and middles are slightly soft
+- Bake for 12 minutes, or until all but center of cookie is lightly brown
 - Cool on a wire rack for 15 minutes
 
 ## References

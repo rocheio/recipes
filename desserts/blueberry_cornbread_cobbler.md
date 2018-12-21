@@ -19,7 +19,7 @@
 - 0.5 cups whole milk
 - 1 tablespoon orange juice
 - 1 tablespoon corn starch
-- 0.5 tablespoon lemon juice (or white vinegar)
+- 0.5 tablespoon lemon juice
 - 2 teaspoons baking powder
 - 1 teaspoon baking soda
 - 1 teaspoon vanilla extract
@@ -30,7 +30,7 @@
 - Preheat oven to 400 degrees Fahrenheit
 - Prepare buttermilk:
     - Pour milk into glass or other container
-    - Stir in lemon juice (or white vinegar)
+    - Stir in lemon juice
     - Mixture will be ready in ten minutes
 - Mix together, in order, in medium bowl:
     - blueberries

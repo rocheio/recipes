@@ -4,15 +4,15 @@ Basic chocolate chip cookies.
 
 - **Prep Time:** 25 minutes
 - **Cook Time:** 10 minutes
+- **Cool Time:** 15 minutes
 
 ## Tools
 
 - oven
 - 1 large mixing bowl
-- 1 mixing spoon (or blender)
+- 1 mixing spoon
 - 1 spatula
 - 1+ flat metal baking sheets
-    - 1+ silicone baking mats (optional)
 - 1 cooling rack
 
 ## Ingredients
@@ -45,7 +45,7 @@ Basic chocolate chip cookies.
     - flour *(quarter cup at a time)*
     - nuts *(optional)*
     - chocolate chips
-- Set out two baking trays with an ungreased baking mat on each
+- Set out baking trays with a greased baking mat or paper on each
 - Place quarter-sized spheres of cookie dough onto the mats, two inches apart
 - Bake for 10 minutes, or until edges are brown and middles are slightly soft
 - Cool on a wire rack for 15 minutes

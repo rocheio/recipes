@@ -45,7 +45,7 @@ Classic chocolate chip cookies.
     - flour *(quarter cup at a time)*
     - nuts *(optional)*
     - chocolate chips
-- Set out baking trays with a greased baking mat or paper on each
+- Set out baking sheets with a greased baking mat or paper on each
 - Place quarter-sized spheres of cookie dough onto the mats, two inches apart
 - Bake for 10 minutes, or until edges are brown and middles are slightly soft
 - Cool on a wire rack for 15 minutes

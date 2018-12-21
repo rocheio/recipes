@@ -40,7 +40,7 @@ Classic peanut butter cookies.
     - baking soda
     - salt
     - flour *(quarter cup at a time)*
-- Set out baking trays with a greased baking mat or paper on each
+- Set out baking sheets with a greased baking mat or paper on each
 - Place quarter-sized spheres of cookie dough onto the mats, two inches apart
 - Flatten each ball with a fork, making a criss-cross pattern
 - Bake for 10 minutes, or until edges are brown and middles are slightly soft

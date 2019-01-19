@@ -1,9 +1,9 @@
 # Pumpkin Cake
 
-* **Prep Time:** 20 minutes
-* **Cook Time:** 35 minutes
-* **Cool Time:** 30 minutes
-* **Decorate Time:** 30 minutes
+- **Prep Time:** 20 minutes
+- **Cook Time:** 35 minutes
+- **Cool Time:** 30 minutes
+- **Decorate Time:** 30 minutes
 
 ## Tools
 

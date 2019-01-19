@@ -1,8 +1,8 @@
 # Pumpkin Roll
 
-* **Prep Time:** 30 minutes
-* **Cook Time:** 20 minutes
-* **Cool Time:** 1 hour
+- **Prep Time:** 30 minutes
+- **Cook Time:** 20 minutes
+- **Cool Time:** 1 hour
 
 ## Tools
 

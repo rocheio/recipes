@@ -1,7 +1,7 @@
 # Blueberry Cornbread Cobbler
 
-* **Prep Time:** 15 minutes
-* **Cook Time:** 20 minutes
+- **Prep Time:** 15 minutes
+- **Cook Time:** 20 minutes
 
 ## Tools
 

@@ -1,5 +1,7 @@
 # Pumpkin Cake
 
+A moist, dense pumpkin cake with cream cheese frosting.
+
 - **Prep Time:** 20 minutes
 - **Cook Time:** 35 minutes
 - **Cool Time:** 30 minutes

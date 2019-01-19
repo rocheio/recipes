@@ -1,5 +1,7 @@
 # Pumpkin Roll
 
+A moist, dense pumpkin cake rolled up with cream cheese frosting.
+
 - **Prep Time:** 30 minutes
 - **Cook Time:** 20 minutes
 - **Cool Time:** 1 hour

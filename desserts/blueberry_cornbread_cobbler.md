@@ -1,5 +1,7 @@
 # Blueberry Cornbread Cobbler
 
+Blueberry cobbler made with a cornbread base.
+
 - **Prep Time:** 15 minutes
 - **Cook Time:** 20 minutes
 

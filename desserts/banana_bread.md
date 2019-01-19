@@ -1,5 +1,7 @@
 # Banana Bread
 
+Fluffy bread made with overripe bananas.
+
 - **Prep Time:** 15 minutes
 - **Cook Time:** 60-70 minutes
 - **Cool Time:** 20 minutes

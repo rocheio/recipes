@@ -1,6 +1,5 @@
 # Brussels Sprouts
 
-- **Total Time:** 50 minutes
 - **Prep Time:** 5 minutes
 - **Cook Time:** 45 minutes
 

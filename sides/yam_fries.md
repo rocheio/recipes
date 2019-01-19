@@ -1,6 +1,5 @@
 # Yam (Sweet Potato) Fries
 
-- **Total Time:** 50 minutes
 - **Prep Time:** 10 minutes
 - **Cook Time:** 40 minutes
 

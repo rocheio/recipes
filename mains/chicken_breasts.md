@@ -1,6 +1,5 @@
 # Chicken Breasts
 
-- **Total Time:** 20 minutes
 - **Prep Time:** 5 minutes
 - **Cook Time:** 20 minutes
 

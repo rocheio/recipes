@@ -1,6 +1,5 @@
 # Fried Quinoa
 
-- **Total Time:** 40 minutes
 - **Prep Time:** 15 minutes
 - **Cook Time:** 25 minutes
 

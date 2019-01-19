@@ -2,7 +2,6 @@
 
 An easy and hearty layered pasta dish. Recipe from my sister.
 
-- **Total Time:** 75 minutes
 - **Prep Time:** 30 minutes
 - **Cook Time:** 45 minutes
 

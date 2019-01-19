@@ -1,6 +1,5 @@
 # Chicken Fried Rice
 
-- **Total Time:** 25 minutes
 - **Prep Time:** 10 minutes
 - **Cook Time:** 15 minutes
 

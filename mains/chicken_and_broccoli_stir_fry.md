@@ -1,6 +1,5 @@
 # Chicken and Broccoli Stir Fry
 
-- **Total Time:** 30 minutes
 - **Prep Time:** 15 minutes
 - **Cook Time:** 15 minutes
 

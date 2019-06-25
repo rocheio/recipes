@@ -18,7 +18,11 @@ Recipes for tasty food in Markdown
 
 - Should be listed in order of mass
 - Cooking spray or butter to prevent sticking may be omitted
-- Lemon juice may be substituted with white vinegar
+- Lemon juice may be substituted 1:1 with white vinegar
+- Tamari sauce may be substituted 2:3 with soy sauce
+    - This will give a dish more umami and a more complex flavor
+- Chipotle chili powder may be substituted 1:3 with regular chili powder
+    - This will give a dish a spicier and more smoky flavor
 
 ### Garlic
 

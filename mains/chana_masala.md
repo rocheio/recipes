@@ -27,8 +27,14 @@ Chickpeas, tomatoes, and a lot of spices, all in one big pan.
 - Dash of cinnamon
 - Dash of cayenne
 
+### Optional
+
+- 2 cups raw spinach
+
 ## Method
 
+- (Optional) Choose an ancient grain to serve with
+    - Prepare that in parallel with this recipe (e.g. during the 20 minute simmer)
 - Combine spices in bowl:
     - chili powder
     - cumin
@@ -46,6 +52,7 @@ Chickpeas, tomatoes, and a lot of spices, all in one big pan.
 - Continue stirring until mixture is fragrant
 - Add tomatoes (undrained) and simmer for 20 minutes
     - Stir occasionally
+    - (Optional) Stir spinach into the mixture 5 minutes before serving
 
 ## Pair With
 

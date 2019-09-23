@@ -32,3 +32,6 @@ Recipes for tasty food in Markdown
 ## Method
 
 - Should be limited to one action per line
+- All ingredients should be prepared as noted before starting the method
+    - e.g. chopping, dicing, mincing
+    - See https://en.wikipedia.org/wiki/Mise_en_place

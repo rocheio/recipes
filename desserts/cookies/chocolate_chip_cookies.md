@@ -2,7 +2,8 @@
 
 Classic chocolate chip cookies.
 
-- **Prep Time:** 25 minutes
+- **Yield:** About 50 cookies with a 1.5 inch diameter
+- **Prep Time:** 20 minutes
 - **Cook Time:** 10 minutes
 - **Cool Time:** 15 minutes
 
@@ -10,6 +11,7 @@ Classic chocolate chip cookies.
 
 - oven
 - 1 large mixing bowl
+- 1 medium mixing bowl
 - 1 mixing spoon
 - 1 spatula
 - 1+ flat metal baking sheets
@@ -17,15 +19,17 @@ Classic chocolate chip cookies.
 
 ## Ingredients
 
-- 0.75 cup granulated sugar
-- 0.75 cup brown sugar
-- 1 cup (2 sticks) butter
-- 1 egg
 - 2.25 cups all-purpose flour
-- 1 teaspoon baking soda
-- 0.5 teaspoon salt
-- 1 teaspoon vanilla
 - 12 ounces (2 cups) semisweet chocolate chips
+- 1 cup (2 sticks) butter
+- 0.75 cup granulated white sugar
+- 0.75 cup brown sugar
+- 1 egg
+- 1 teaspoon baking soda
+- 0.5 teaspoon vanilla
+- 0.5 teaspoon almond extract
+    - (or substitute with more vanilla)
+- 0.5 teaspoon salt
 
 ### Optional ingredients
 
@@ -34,19 +38,23 @@ Classic chocolate chip cookies.
 ## Method
 
 - Preheat oven to 375 degrees Fahrenheit
-- In order, mix together in large bowl using a spatula:
+- Beat together in large bowl using a mixing spoon:
     - butter *(softened, not melted)*
     - white sugar
     - brown sugar
     - egg
     - vanilla
+    - almond extract
+- Mix together in medium bowl:
+    - flour
     - baking soda
     - salt
-    - flour *(quarter cup at a time)*
-    - nuts *(optional)*
+- Beat dry mixture into wet mixture a half cup at a time
+- Mix into the dough:
     - chocolate chips
+    - nuts *(optional)*
 - Set out baking sheets with a greased baking mat or paper on each
-- Place quarter-sized spheres of cookie dough onto the mats, two inches apart
+- Place one-inch diameter spheres of cookie dough onto the mats, two inches apart
 - Bake for 10 minutes, or until edges are brown and middles are slightly soft
 - Cool on a wire rack for 15 minutes
 

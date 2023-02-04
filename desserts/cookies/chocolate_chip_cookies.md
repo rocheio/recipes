@@ -26,7 +26,7 @@ Classic chocolate chip cookies.
 - 0.75 cup brown sugar
 - 1 egg
 - 1 teaspoon baking soda
-- 0.5 teaspoon vanilla
+- 0.5 teaspoon vanilla extract
 - 0.5 teaspoon almond extract
     - (or substitute with more vanilla)
 - 0.5 teaspoon salt
@@ -37,13 +37,12 @@ Classic chocolate chip cookies.
 
 ## Method
 
-- Preheat oven to 375 degrees Fahrenheit
 - Beat together in large bowl using a mixing spoon:
     - butter *(softened, not melted)*
     - white sugar
     - brown sugar
     - egg
-    - vanilla
+    - vanilla extract
     - almond extract
 - Mix together in medium bowl:
     - flour
@@ -53,6 +52,8 @@ Classic chocolate chip cookies.
 - Mix into the dough:
     - chocolate chips
     - nuts *(optional)*
+- Let dough refrigerate for at least 30 minutes
+- Preheat oven to 375 degrees Fahrenheit
 - Set out baking sheets with a greased baking mat or paper on each
 - Place one-inch diameter spheres of cookie dough onto the mats, two inches apart
 - Bake for 10 minutes, or until edges are brown and middles are slightly soft

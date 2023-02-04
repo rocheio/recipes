@@ -29,17 +29,20 @@ Classic peanut butter cookies.
 
 ## Method
 
-- Preheat oven to 375 degrees Fahrenheit
 - In order, mix together in large bowl using a spatula:
     - butter *(softened, not melted)*
     - white sugar
     - brown sugar
     - eggs
     - peanut butter
+- Mix together in medium bowl:
+    - flour
     - baking powder
     - baking soda
     - salt
-    - flour *(quarter cup at a time)*
+- Beat dry mixture into wet mixture a half cup at a time
+- Let dough refrigerate for at least 30 minutes
+- Preheat oven to 375 degrees Fahrenheit
 - Set out baking sheets with a greased baking mat or paper on each
 - Place quarter-sized spheres of cookie dough onto the mats, two inches apart
 - Flatten each ball with a fork, making a criss-cross pattern
